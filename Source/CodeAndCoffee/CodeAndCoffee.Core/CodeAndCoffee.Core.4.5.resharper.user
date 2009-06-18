@@ -10,8 +10,15 @@
     <NAntPath value="" />
   </NAntValidationSettings>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="FB3F1E70-395A-458B-B0ED-A5CD2035F6FE/d:Core/f:TwitterLoginTests.cs" caret="39" fromTop="2" />
+      <File id="0BC44D39-FBE6-4086-8830-130445FEFFAB/f:Class1.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FB3F1E70-395A-458B-B0ED-A5CD2035F6FE/d:Core/f:TwitterLoginTests.cs" caret="75" fromTop="2" />
+      <File id="0BC44D39-FBE6-4086-8830-130445FEFFAB/f:Class1.cs" caret="121" fromTop="6" />
+      <File id="0BC44D39-FBE6-4086-8830-130445FEFFAB/f:Class1.cs" caret="0" fromTop="0" />
+    </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
     <Providers />
@@ -19,4 +26,10 @@
   <UnitTestRunnerMSTest>
     <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
   </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="NBehave" priority="0" />
+      <Item value="Framework" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

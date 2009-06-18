@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAndCoffee.Core", "CodeA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAndCoffee.Tests", "..\CodeAndCoffee.Tests\CodeAndCoffee.Tests.csproj", "{FB3F1E70-395A-458B-B0ED-A5CD2035F6FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAndCoffee.Tests.Integration", "CodeAndCoffee.Tests.Integration\CodeAndCoffee.Tests.Integration.csproj", "{0BC44D39-FBE6-4086-8830-130445FEFFAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{FB3F1E70-395A-458B-B0ED-A5CD2035F6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB3F1E70-395A-458B-B0ED-A5CD2035F6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB3F1E70-395A-458B-B0ED-A5CD2035F6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC44D39-FBE6-4086-8830-130445FEFFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC44D39-FBE6-4086-8830-130445FEFFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC44D39-FBE6-4086-8830-130445FEFFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC44D39-FBE6-4086-8830-130445FEFFAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
